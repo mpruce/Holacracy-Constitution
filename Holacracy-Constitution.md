@@ -83,7 +83,7 @@ However, the Circle retains the right to amend or remove that Domain delegation,
 
 By default, any Domains delegated in this way exclude the authority to dispose of the Domain itself or any significant assets within the Domain, or to transfer those assets outside of the Circle, or to significantly limit any rights of the Circle to the Domain. A Circle may delegate these retained authorities as well, by explicitly granting the desired permissions in a Policy of the Circle.
 
-In any case, all Domain delegations are always limited to whatever authority the Circle itself had in the first place.
+In any case, all Domain delegations are always limited to whatever authority the Circle itself had in the first place. Therefore, in order for a circle to grant or restrict access to a  Domain to any other Circle in the organization the domain must first be granted to the Circle by it's Super-Circle. 
 
 ### 2.2 Circle Lead Link
 
